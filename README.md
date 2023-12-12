@@ -27,13 +27,13 @@ Customer churn is a critical metric for businesses. This project aims to analyze
 ## Dependencies
 
 - Python 3.x
-- Libraries: Pandas, NumPy, lifelines, scikit-learn, matplotlib, seaborn, etc. (List the necessary libraries)
+- Libraries: Pandas, NumPy, lifelines, scikit-learn, matplotlib, seaborn, etc.
 
 ## Getting Started
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/customer-churn-survival-analysis.git
+    git clone https://github.com/gghimire2041/survival_analysis
     ```
 2. Install dependencies:
     ```
